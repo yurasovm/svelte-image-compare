@@ -43,7 +43,7 @@ CDN: [UNPKG](https://unpkg.com/svelte-image-compare/) | [jsDelivr](https://cdn.j
 </script>
 ```
 
-If you are **not** using using es6, instead of importing add 
+If you are **not** using es6, instead of importing add 
 
 ```html
 <script src="/path/to/svelte-image-compare/index.js"></script>
